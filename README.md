@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Lotto Smart App
 
 A Python application that analyses historical lottery results and generates number combinations using statistical analysis and a weighted selection method.
@@ -30,3 +31,7 @@ This project is for educational and statistical exploration purposes only. Lotte
 
 ## Author
 AndileM95
+=======
+# ai-lotto-app
+Python-based lottery statistics analysis and weighted number generation tool.
+>>>>>>> fb8b27901738d7bf8d242a841f9497353f3da3df
